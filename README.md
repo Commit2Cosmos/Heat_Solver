@@ -3,13 +3,13 @@
 
 ## Theory
 
-$
+$$
 \dfrac{\partial u}{\partial t} = \alpha 
 \left( 
 \dfrac{\partial^2 u}{\partial x^2} +
 \dfrac{\partial^2 u}{\partial y^2}
 \right)
-$
+$$
 
 where:
 - $u(x,y,t)$ is the temperature field,
